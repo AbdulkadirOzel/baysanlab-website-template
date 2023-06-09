@@ -3,7 +3,7 @@
 
 # BIOINFIRMATICS & DATABASES LAB
 
-Bu bir deneme yazısıdır.
+Welcome to the Bioinformatics and Databases Lab at ITU. Our team consists of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine. At a high level, our lab performs research in two major domains as summarized below.
 
 {% include section.html %}
 
