@@ -39,8 +39,8 @@ Assoc. Prof. Mehmet Baysan's group (BaysanLAB) is part of Faculty of Computer An
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/itu.jpg"
+  caption="Istanbul Technical University"
 %}
 
 {% endcapture %}
