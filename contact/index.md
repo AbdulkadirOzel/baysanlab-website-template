@@ -15,7 +15,6 @@ Assoc. Prof. Mehmet Baysan's group (BaysanLAB) is part of Faculty of Computer An
   text="Assoc. Prof. Mehmet Baysan"
   link="baysan@gmail.com"
 %}
-
 {%
   include button.html
   type="Google Maps"
