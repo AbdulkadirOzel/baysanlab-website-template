@@ -3,7 +3,7 @@
 
 # BIOINFIRMATICS & DATABASES LAB
 
-Welcome to the Bioinformatics and Databases Lab at ITU. Our team consists of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine. At a high level, our lab performs research in two major domains as summarized below.
+Welcome to the Bioinformatics Lab at ITU. The Bioiformatics lab combines the efforts of Assoc. Prof. Mehmet BAYSAN and Assoc. Prof. Ali ÇAKMAK.  BaysanLab and ÇakmakLab consist of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine.
 
 {% include section.html %}
 
