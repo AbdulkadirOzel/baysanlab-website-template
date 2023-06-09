@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Mehmet Arif Ergün
 image: images/photo.jpg
 role: pi
 aliases:
