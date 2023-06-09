@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="BaysanLab"
+  text="See BaysanLab Page"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="See BaysanLab Page"
+  title="BaysanLab"
   text=text
 %}
 
