@@ -18,6 +18,7 @@ Assoc. Prof. Mehmet Baysan's group (BaysanLAB) is part of Faculty of Computer An
 {%
   include button.html
   type="address"
+  text="Google Maps"
   tooltip="Our location on Google Maps at ITU"
   link="https://goo.gl/maps/LSHJ3zbvkp97XWBA6"
 %}
