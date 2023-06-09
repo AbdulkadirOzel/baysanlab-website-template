@@ -5,15 +5,21 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Contacts
 
-Assoc. Prof. Mehmet Baysan's group (BaysanLAB) is part of Faculty of Computer And Informatics Engineering at Istanbul Technical University. 
+Baysan Lab and Çakmak Lab are part of Faculty of Computer And Informatics Engineering at Istanbul Technical University. Don't hesitate to contact us through any of the provided information. We will get back to you as soon as possible.  
 
 {%
   include button.html
   type="email"
-  text="Assoc. Prof. Mehmet Baysan"
+  text="Baysan Lab"
   link="baysan@gmail.com"
+%}
+{%
+  include button.html
+  type="email"
+  text="Çakmak Lab"
+  link="ali.cakmak@itu.edu.tr"
 %}
 {%
   include button.html
