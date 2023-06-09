@@ -1,9 +1,9 @@
 ---
 ---
 
-# AbdulkadirOzel's Website
+# BIOINFIRMATICS & DATABASES LAB
 
-An engaging 1-3 sentence description of your lab.
+Bu bir deneme yazısıdır.
 
 {% include section.html %}
 
