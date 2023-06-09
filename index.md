@@ -1,9 +1,9 @@
 ---
 ---
 
-# BIOINFORMATICS LAB
+# BIOINFORMATICS RESEARCH GROUP
 
-Welcome to the Bioinformatics Lab at ITU. The Bioinformatics lab combines the efforts of Assoc. Prof. Mehmet BAYSAN (BaysanLab) and Assoc. Prof. Ali ÇAKMAK (ÇakmakLab).  BaysanLab and ÇakmakLab consist of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine.
+Welcome to the Bioinformatics Research Group at ITU. This group combines the efforts of Assoc. Prof. Mehmet BAYSAN (Baysan Lab) and Assoc. Prof. Ali ÇAKMAK (Çakmak Lab).  Baysan Lab and Çakmak Lab consist of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine.
 
 Bioinformatics: We develop computational models and automated analysis methods for biological data. In particular, we focus on biochemical interactions (enzyme-enzyme and enzyme-metabolite) and metabolomics.
 
