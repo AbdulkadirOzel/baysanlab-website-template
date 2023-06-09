@@ -47,4 +47,3 @@ Assoc. Prof. Mehmet Baysan's group (BaysanLAB) is part of Faculty of Computer An
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
