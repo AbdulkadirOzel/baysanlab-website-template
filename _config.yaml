@@ -8,8 +8,8 @@ footer: images/background.jpg
 # site social media and other links
 links:
   email: contact@AbdulkadirOzel.com
-  google-scholar: ETJoidYAAAAJ
-  github: AbdulkadirOzel
+  google-scholar: https://scholar.google.com/citations?user=P2WZPoEAAAAJ&hl=tr&oi=ao
+  github: https://github.com/MBaysanLab
 
 ### jekyll settings
 
