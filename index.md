@@ -38,7 +38,7 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Çakmak Lab açıklaması.
 
 {%
   include button.html
