@@ -1,5 +1,5 @@
 ---
-name: Mehmet Arif Ergün
+name: Mehmet Baysan
 image: images/photo.jpg
 role: pi
 aliases:
