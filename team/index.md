@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Baysan Lab Team
 
-Since bioinformatics is an interdisciplinary field by nature, we have teammates from many different backgrounds.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
@@ -26,10 +24,6 @@ Since bioinformatics is an interdisciplinary field by nature, we have teammates 
 {% include section.html %}
 
 {% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 
