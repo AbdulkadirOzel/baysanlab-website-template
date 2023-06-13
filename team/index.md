@@ -14,6 +14,8 @@ Since bioinformatics is an interdisciplinary field by nature, we have teammates 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+{% include section.html %}
+
 # {% include icon.html icon="fa-solid fa-users" %}Çakmak Lab Team
 
 {% include section.html %}
