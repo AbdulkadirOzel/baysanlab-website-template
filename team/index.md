@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Baysan Lab Team
 
 Since bioinformatics is an interdisciplinary field by nature, we have teammates from many different backgrounds.
 
@@ -13,6 +13,8 @@ Since bioinformatics is an interdisciplinary field by nature, we have teammates 
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Çakmak Lab Team
 
 {% include section.html %}
 
