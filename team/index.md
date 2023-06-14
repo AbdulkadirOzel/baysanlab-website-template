@@ -1,7 +1,7 @@
 ---
 title: Teams
 nav:
-  order: 3
+  order: 5
   tooltip: About our team
 ---
 
