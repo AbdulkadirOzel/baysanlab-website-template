@@ -3,7 +3,7 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-book
   description: Principal Investigator
 
 postdoc:
@@ -17,6 +17,10 @@ phd:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+master:
+  icon: fa-solid fa-user-graduate
+  description: Master Student
 
 programmer:
   icon: fa-solid fa-code
