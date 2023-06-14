@@ -19,7 +19,7 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {%
   include button.html
-  link="research"
+  link="BaysanLab"
   text="See Baysan Lab Page"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -30,19 +30,19 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="images/baysanlab.png"
+  link="BaysanLab"
   title="Baysan Lab"
   text=text
 %}
 
 {% capture text %}
 
-Çakmak Lab açıklaması.
+Çakmak Lab description.
 
 {%
   include button.html
-  link="projects"
+  link="ÇakmakLab"
   text="See Çakmak Lab Page"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -53,33 +53,10 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
+  image="images/cakmaklab.png"
+  link="ÇakmakLab"
   title="Çakmak Lab"
-  flip=true
   style="bare"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
