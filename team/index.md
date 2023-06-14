@@ -20,7 +20,6 @@ nav:
 
 {% include section.html %}
 
-
 {% capture content %}
 
 {% endcapture %}
