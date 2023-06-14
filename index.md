@@ -7,7 +7,7 @@ Welcome to the Bioinformatics Research Group at ITU. This group combines the eff
 
 Bioinformatics: We develop computational models and automated analysis methods for biological data. In particular, we focus on biochemical interactions (enzyme-enzyme and enzyme-metabolite) and metabolomics.
 
-Data mining, data management, databases: We develop data mining and management algorithms to automatically predict variety of data pieces in diverse applications that range from predicting high impact scientific papers to mining graph and text patterns in biomedical databases. 
+Data mining, data management, databases: We develop data mining and management algorithms to automatically predict variety of data pieces in diverse applications that range from predicting high impact scientific papers to mining graph and text patterns in biomedical databases.
 
 {% include section.html %}
 
@@ -15,7 +15,7 @@ Data mining, data management, databases: We develop data mining and management a
 
 {% capture text %}
 
-Baysan Lab mainly focuses on computational genomics and bioinformatics research.   
+Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {%
   include button.html
@@ -59,4 +59,3 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
   style="bare"
   text=text
 %}
-
