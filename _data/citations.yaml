@@ -1,133 +1,135 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1002/ijc.30887
+  title: "Detailed longitudinal sampling of glioma stem cells <i>in situ</i>\n reveals\
+    \ Chr7 gain and Chr10 loss as repeated events in primary tumor formation and recurrence"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Mehmet Baysan
+  - Kevin Woolard
+  - Margaret C. Cam
+  - Wei Zhang
+  - Hua Song
+  - Svetlana Kotliarova
+  - Demosthenes Balamatsias
+  - Amanda Linkous
+  - Susie Ahn
+  - Jennifer Walling
+  - Galina I. Belova
+  - Howard A. Fine
+  publisher: International Journal of Cancer
+  date: '2017-08-21'
+  link: https://doi.org/10.1002/ijc.30887
+  image: https://onlinelibrary.wiley.com/cms/asset/c11c6ced-4c25-4d4a-8800-39714e45894a/ijc30887-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.4137/CIN.S14027
+  title: Master Regulators, Regulatory Networks, and Pathways of Glioblastoma Subtypes
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Serdar Bozdag
+  - Aiguo Li
+  - Mehmet Baysan
+  - Howard A. Fine
+  publisher: Cancer Informatics
+  date: '2014-01-01'
+  link: https://doi.org/10.4137/cin.s14027
+  image: https://journals.sagepub.com/cms/10.4137/CIN.S14027/asset/images/large/10.4137_cin.s14027-fig2.jpeg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1371/journal.pone.0094045
+  title: Micro-Environment Causes Reversible Changes in DNA Methylation and mRNA Expression
+    Profiles in Patient-Derived Glioma Stem Cells
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Mehmet Baysan
+  - Kevin Woolard
+  - Serdar Bozdag
+  - Gregory Riddick
+  - Svetlana Kotliarova
+  - Margaret C. Cam
+  - Galina I. Belova
+  - Susie Ahn
+  - Wei Zhang
+  - Hua Song
+  - Jennifer Walling
+  - Holly Stevenson
+  - Paul Meltzer
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2014-04-11'
+  link: https://doi.org/10.1371/journal.pone.0094045
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0062982
+  title: Age-Specific Signatures of Glioblastoma at the Genomic, Genetic, and Epigenetic
+    Levels
+  authors:
+  - Serdar Bozdag
+  - Aiguo Li
+  - Gregory Riddick
+  - Yuri Kotliarov
+  - Mehmet Baysan
+  - Fabio M. Iwamoto
+  - Margaret C. Cam
+  - Svetlana Kotliarova
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2013-04-29'
+  link: https://doi.org/10.1371/journal.pone.0062982
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0047839
+  title: G-Cimp Status Prediction Of Glioblastoma Samples Using mRNA Expression Data
+  authors:
+  - Mehmet Baysan
+  - Serdar Bozdag
+  - Margaret C. Cam
+  - Svetlana Kotliarova
+  - Susie Ahn
+  - Jennifer Walling
+  - Jonathan K. Killian
+  - Holly Stevenson
+  - Paul Meltzer
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2012-11-06'
+  link: https://doi.org/10.1371/journal.pone.0047839
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0051407
+  title: Histone Demethylase Jumonji D3 (JMJD3) as a Tumor Suppressor by Regulating
+    p53 Protein Nuclear Stabilization
+  authors:
+  - Chibawanye I. Ene
+  - Lincoln Edwards
+  - Gregory Riddick
+  - Mehmet Baysan
+  - Kevin Woolard
+  - Svetlana Kotliarova
+  - Chen Lai
+  - Galina Belova
+  - Maggie Cam
+  - Jennifer Walling
+  - Ming Zhou
+  - Holly Stevenson
+  - Hong Sug Kim
+  - Keith Killian
+  - Timothy Veenstra
+  - Rolanda Bailey
+  - Hua Song
+  - Wei Zhang
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2012-12-07'
+  link: https://doi.org/10.1371/journal.pone.0051407
+  image: https://ndownloader.figstatic.com/files/285927/preview/285927/preview.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21541/apjes.403727
+  title: "Homojen Glioblastoma \xD6rneklerinin Y\xFCksek \xC7\xF6z\xFCn\xFCrl\xFC\
+    kl\xFC Genetik Teknolojiler ile Analizi"
+  authors:
+  - Mehmet Baysan
+  publisher: Academic Platform Journal of Engineering and Science
+  date: '2018-08-03'
+  link: https://doi.org/10.21541/apjes.403727
   plugin: sources.py
   file: sources.yaml

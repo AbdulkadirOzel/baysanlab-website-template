@@ -1,5 +1,5 @@
 ---
-title: Teams
+title: People
 nav:
   order: 5
   tooltip: About our team
