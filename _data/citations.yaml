@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: wosuid:WOS:000574027000377
+  title: MODULATION OF YAP1 EXPRESSION AND OTHER RELATED SIGNALING PATHWAYS IN HepG2
+    CELLS BY EXTRACELLULAR MATRIX, CONTACT INHIBITION AND CELL DENSITY
+  publisher: Hepatology
+  date: '2022-06-01'
+  link: https://publons.com/publon/46097050/
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: Polynomial time exact solutions for forwarding set problems in wireless ad
+    hoc networks
+  publisher: Neuro-oncology
+  date: '2020-10-06'
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ijc.30887
   title: "Detailed longitudinal sampling of glioma stem cells <i>in situ</i>\n reveals\
     \ Chr7 gain and Chr10 loss as repeated events in primary tumor formation and recurrence"
@@ -19,9 +36,29 @@
   publisher: International Journal of Cancer
   date: '2017-08-21'
   link: https://doi.org/10.1002/ijc.30887
-  image: https://onlinelibrary.wiley.com/cms/asset/c11c6ced-4c25-4d4a-8800-39714e45894a/ijc30887-fig-0001-m.jpg
+  orcid: 0000-0001-7359-2965
   plugin: sources.py
   file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/c11c6ced-4c25-4d4a-8800-39714e45894a/ijc30887-fig-0001-m.jpg
+- id: doi:10.1016/j.gene.2016.04.042
+  title: Gene expression profiles of autophagy-related genes in multiple sclerosis
+  authors:
+  - Mehri Igci
+  - Mehmet Baysan
+  - Remzi Yigiter
+  - Mustafa Ulasli
+  - Sirma Geyik
+  - Recep Bayraktar
+  - "\u0130brahim Bozgeyik"
+  - Esra Bozgeyik
+  - Ali Bayram
+  - Ecir Ali Cakmak
+  publisher: Gene
+  date: '2016-08-01'
+  link: https://doi.org/10.1016/j.gene.2016.04.042
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.4137/CIN.S14027
   title: Master Regulators, Regulatory Networks, and Pathways of Glioblastoma Subtypes
   authors:
@@ -32,9 +69,10 @@
   publisher: Cancer Informatics
   date: '2014-01-01'
   link: https://doi.org/10.4137/cin.s14027
-  image: https://journals.sagepub.com/cms/10.4137/CIN.S14027/asset/images/large/10.4137_cin.s14027-fig2.jpeg
+  orcid: 0000-0001-7359-2965
   plugin: sources.py
   file: sources.yaml
+  image: https://journals.sagepub.com/cms/10.4137/CIN.S14027/asset/images/large/10.4137_cin.s14027-fig2.jpeg
 - id: doi:10.1371/journal.pone.0094045
   title: Micro-Environment Causes Reversible Changes in DNA Methylation and mRNA Expression
     Profiles in Patient-Derived Glioma Stem Cells
@@ -56,11 +94,12 @@
   publisher: PLoS ONE
   date: '2014-04-11'
   link: https://doi.org/10.1371/journal.pone.0094045
+  orcid: 0000-0001-7359-2965
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1371/journal.pone.0062982
+- id: doi:10.1145/2506583.2506659
   title: Age-Specific Signatures of Glioblastoma at the Genomic, Genetic, and Epigenetic
-    Levels
+    levels
   authors:
   - Serdar Bozdag
   - Aiguo Li
@@ -71,11 +110,36 @@
   - Margaret C. Cam
   - Svetlana Kotliarova
   - Howard A. Fine
-  publisher: PLoS ONE
-  date: '2013-04-29'
-  link: https://doi.org/10.1371/journal.pone.0062982
-  plugin: sources.py
-  file: sources.yaml
+  publisher: Proceedings of the International Conference on Bioinformatics, Computational
+    Biology and Biomedical Informatics
+  date: '2013-09-22'
+  link: https://doi.org/10.1145/2506583.2506659
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.orl.2013.10.002
+  title: Approximation algorithm for the on-line multi-customer two-level supply chain
+    scheduling problem
+  authors:
+  - Igor Averbakh
+  - Mehmet Baysan
+  publisher: Operations Research Letters
+  date: '2013-11-01'
+  link: https://doi.org/10.1016/j.orl.2013.10.002
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.dam.2012.08.003
+  title: Batching and delivery in semi-online distribution systems
+  authors:
+  - Igor Averbakh
+  - Mehmet Baysan
+  publisher: Discrete Applied Mathematics
+  date: '2013-01-01'
+  link: https://doi.org/10.1016/j.dam.2012.08.003
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0047839
   title: G-Cimp Status Prediction Of Glioblastoma Samples Using mRNA Expression Data
   authors:
@@ -92,6 +156,7 @@
   publisher: PLoS ONE
   date: '2012-11-06'
   link: https://doi.org/10.1371/journal.pone.0047839
+  orcid: 0000-0001-7359-2965
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pone.0051407
@@ -120,7 +185,143 @@
   publisher: PLoS ONE
   date: '2012-12-07'
   link: https://doi.org/10.1371/journal.pone.0051407
+  orcid: 0000-0001-7359-2965
+  plugin: sources.py
+  file: sources.yaml
   image: https://ndownloader.figstatic.com/files/285927/preview/285927/preview.jpg
+- id: doi:10.1016/j.adhoc.2012.03.009
+  title: Polynomial time solution to minimum forwarding set problem in wireless networks
+    under disk coverage model
+  authors:
+  - Mehmet Baysan
+  - Kamil Sarac
+  - R. Chandrasekaran
+  publisher: Ad Hoc Networks
+  date: '2012-09-01'
+  link: https://doi.org/10.1016/j.adhoc.2012.03.009
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10951-011-0264-7
+  title: Semi-online two-level supply chain scheduling problems
+  authors:
+  - Igor Averbakh
+  - Mehmet Baysan
+  publisher: Journal of Scheduling
+  date: '2011-12-29'
+  link: https://doi.org/10.1007/s10951-011-0264-7
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.dam.2010.12.022
+  title: On a labeling problem in graphs
+  authors:
+  - R. Chandrasekaran
+  - M. Dawande
+  - M. Baysan
+  publisher: Discrete Applied Mathematics
+  date: '2011-04-01'
+  link: https://doi.org/10.1016/j.dam.2010.12.022
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TPDS.2008.169
+  title: A Polynomial Time Solution to Minimum Forwarding Set Problem in Wireless
+    Networks under Unit Disk Coverage Model
+  authors:
+  - M. Baysan
+  - K. Sarac
+  - R. Chandrasekaran
+  - S. Bereg
+  publisher: IEEE Transactions on Parallel and Distributed Systems
+  date: '2009-07-01'
+  link: https://doi.org/10.1109/tpds.2008.169
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.adhoc.2007.06.002
+  title: Variable power broadcast using local information in ad hoc networks
+  authors:
+  - Avinash Chiganmi
+  - Mehmet Baysan
+  - Kamil Sarac
+  - Ravi Prakash
+  publisher: Ad Hoc Networks
+  date: '2008-07-01'
+  link: https://doi.org/10.1016/j.adhoc.2007.06.002
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/.2006.1629387
+  title: Cluster Based Approaches for End-to-End Complete Feedback Collection in Multicast
+  authors:
+  - M. Baysan
+  - K. Sarac
+  publisher: 2006 IEEE International Performance Computing and Communications Conference
+  date: ''
+  link: https://doi.org/10.1109/.2006.1629387
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BROADNETS.2004.44
+  title: Improving energy savings in power adaptive broadcasting in MANETs
+  authors:
+  - M. Baysan
+  - S. Gowdamachandran
+  - K. Sarac
+  publisher: First International Conference on Broadband Networks
+  date: ''
+  link: https://doi.org/10.1109/broadnets.2004.44
+  orcid: 0000-0001-7359-2965
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0062982
+  title: Age-Specific Signatures of Glioblastoma at the Genomic, Genetic, and Epigenetic
+    Levels
+  authors:
+  - Serdar Bozdag
+  - Aiguo Li
+  - Gregory Riddick
+  - Yuri Kotliarov
+  - Mehmet Baysan
+  - Fabio M. Iwamoto
+  - Margaret C. Cam
+  - Svetlana Kotliarova
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2013-04-29'
+  link: https://doi.org/10.1371/journal.pone.0062982
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.21541/apjes.403727
