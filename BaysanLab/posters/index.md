@@ -15,4 +15,4 @@ We showcase a collection of visually captivating posters which are related with 
 
 {% include tags.html tags="publication, resource, website" %}
 
-{% include list.html component="card" data="baysanlab-projects" filters="group: featured" %}
+{% include list.html component="card" data="baysanlab-posters" filters="group: featured" %}
