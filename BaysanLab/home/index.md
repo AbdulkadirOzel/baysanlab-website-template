@@ -39,7 +39,7 @@ There are many projects carried out by our lab together with Tüseb. Some of the
 
 {%
   include feature.html
-  image="images/logol.png"
+  image="images/project1_bl.png"
   link="BaysanLab/projects"
   title="Projects"
   text=text
