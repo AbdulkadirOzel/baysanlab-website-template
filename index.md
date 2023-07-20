@@ -34,8 +34,8 @@ Meet the Bioinformatics Research Group researchers!
 
 {%
   include feature.html
-  image="images/team.jpg"
-  link="BaysanLab"
+  image="images/team.png"
+  link="team"
   title="People"
   text=text
 %}
