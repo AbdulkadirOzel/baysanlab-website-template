@@ -6,7 +6,7 @@ nav:
   main: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Baysan Lab Team
+# {% include icon.html icon="fa-solid fa-users" %}Bioinformatics Research Group Members
 
 {% include section.html %}
 
@@ -17,15 +17,5 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: master" %}
 ---
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
-
-{% include section.html %}
-
-# {% include icon.html icon="fa-solid fa-users" %}Çakmak Lab Team
-
-{% include section.html %}
-
-{% capture content %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+---
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
