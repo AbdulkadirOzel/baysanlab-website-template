@@ -16,7 +16,14 @@
     data-big
   {% endif %}
 >
-  <a href="{{ "/" | relative_url }}" class="home">
+  <a 
+    {% if page.dir == "/BaysanLab/" or page.dir == "/BaysanLab/posters/" or page.dir == "/BaysanLab/projects/" or page.dir == "/BaysanLab/publications/" or page.dir == "/BaysanLab/people/" or page.dir == "/BaysanLab/news/" or page.dir == "/BaysanLab/contact/" %}
+    href="{{ "/BaysanLab" | relative_url }}" class="home"
+    {% elsif page.dir == "/CakmakLab/" or page.dir == "/CakmakLab/posters/" or page.dir == "/CakmakLab/projects/" or page.dir == "/CakmakLab/publications/" or page.dir == "/CakmakLab/people/" or page.dir == "/CakmakLab/news/" or page.dir == "/CakmakLab/contact/" %}
+    href="{{ "/CakmakLab" | relative_url }}" class="home"
+    {% else %}
+    href="{{ "/" | relative_url }}" class="home"
+    {% endif %}>
     {% if logo %}
       <span class="logo">
         {% if svg %}
@@ -29,7 +36,13 @@
     {% if site.logo-text != false %}
       <span class="title" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
-          <span>{{ site.title }}</span>
+          {% if page.dir != "/BaysanLab/" and page.dir != "/BaysanLab/posters/" and page.dir != "/BaysanLab/projects/" and page.dir != "/BaysanLab/publications/" and page.dir != "/BaysanLab/people/" and page.dir != "/BaysanLab/news/" and page.dir != "/BaysanLab/contact/" and page.dir != "/CakmakLab/" and page.dir != "/CakmakLab/posters/" and page.dir != "/CakmakLab/projects/" and page.dir != "/CakmakLab/publications/" and page.dir != "/CakmakLab/people/" and page.dir != "/CakmakLab/news/" and page.dir != "/CakmakLab/contact/"  %}
+          <span> {{ site.title }} </span>
+          {% elsif page.dir == "/BaysanLab/" or page.dir == "/BaysanLab/posters/" or page.dir == "/BaysanLab/projects/" or page.dir == "/BaysanLab/publications/" or page.dir == "/BaysanLab/people/" or page.dir == "/BaysanLab/news/" or page.dir == "/BaysanLab/contact/" %}
+          <span> BAYSAN LAB </span>
+          {% elsif page.dir == "/CakmakLab/" or page.dir == "/CakmakLab/posters/" or page.dir == "/CakmakLab/projects/" or page.dir == "/CakmakLab/publications/" or page.dir == "/CakmakLab/people/" or page.dir == "/CakmakLab/news/" or page.dir == "/CakmakLab/contact/" %}
+          <span> ÇAKMAK LAB </span>
+          {% endif %}
         {% endif %}
         {% if site.subtitle and site.show-subtitle != false %}
           <span>{{ site.subtitle }}</span>
@@ -37,14 +50,26 @@
       </span>
     {% endif %}
   </a>
+  
 
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
   <nav>
-    {% assign pages = site.pages
-      | where_exp: "page", "page.nav"
-      | sort: "nav.order"
-    %}
+        
+    {% if page.dir != "/BaysanLab/" and page.dir != "/BaysanLab/posters/" and page.dir != "/BaysanLab/projects/" and page.dir != "/BaysanLab/publications/" and page.dir != "/BaysanLab/people/" and page.dir != "/BaysanLab/news/" and page.dir != "/BaysanLab/contact/" %}
+      {% assign pages = site.pages
+        | where_exp: "page", "page.nav"
+        | where: "nav.main", "1"
+        | sort: "nav.order"
+      %}
+    {% elsif page.dir == "/BaysanLab/" or page.dir == "/BaysanLab/posters/" or page.dir == "/BaysanLab/projects/" or page.dir == "/BaysanLab/publications/" or page.dir == "/BaysanLab/people/" or page.dir == "/BaysanLab/news/" or page.dir == "/BaysanLab/contact/" %}
+      {% assign pages = site.pages
+        | where_exp: "page", "page.nav"
+        | sort: "nav.order"
+        | where: "nav.BL", "1"
+      %}
+    {% endif %}
+
     {% for page in pages %}
       {% if page.nav %}
         <a
@@ -55,5 +80,7 @@
         </a>
       {% endif %}
     {% endfor %}
+  
+    
   </nav>
 </header>
