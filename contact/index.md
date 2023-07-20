@@ -13,6 +13,12 @@ Baysan Lab and Çakmak Lab are part of Faculty of Computer And Informatics Engin
 {%
   include button.html
   type="email"
+  text="Bioinformatic Research Group"
+  link="bioinformatics@itu.edu.tr"
+%}
+{%
+  include button.html
+  type="email"
   text="Baysan Lab"
   link="baysan@gmail.com"
 %}
