@@ -1,14 +1,18 @@
 ---
 title: Baysan Lab
 description: Current Baysan Lab Projects in the Bioinformatics Research Group
+permalink: /BaysanLab/
 nav:
-  order: 3
+  order: 5
   tooltip: Current Research
+  main: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-laptop-code" %}Baysan Lab
+# Baysan Lab
 
-Some text belongs to the lab description.
+*Welcome to the Baysan Lab at Istanbul Technical University!*
+
+The Baysan Lab consists of researchers with different scientifical backgrounds and academic levels. Our laboratory mainly focuses on bioinformatics, next generation sequencing (NGS) analysis and its application on diseases such as cancer. Specifically, our efforts are dedicated to compare and integrate the NGS tools into our developed comprehensive tool [CoSAP](https://github.com/MBaysanLab/cosap), annotate the genetic variants with using public datasets and understand the genetic variants involved in the formation and course of common diseases such as cancer.
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,22 +20,73 @@ Some text belongs to the lab description.
 
 {% include section.html %}
 
-## Projects
+## Highlights
 
-{% include list.html component="card" data="baysanlab-projects" filters="group: featured" %}
+{% capture text %}
 
-{% include section.html %}
+There are many projects carried out by our lab together with Tüseb. Some of these can be mentioned as Türkiye Genome Project and Covid Genome Project. You can contact us on our contact page to work on such projects.
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+{%
+  include button.html
+  link="BaysanLab/projects"
+  text="More About Projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-Our publications were shown in below sections.
+{% endcapture %}
 
-{% include section.html %}
+{%
+  include feature.html
+  image="images/logol.png"
+  link="BaysanLab/projects"
+  title="Projects"
+  text=text
+%}
 
-## All
+{% capture text %}
 
-{% include search-box.html %}
+Our up-to-date articles from members of Baysan Lab are shown in this section. You can access our article list in chronologic order from the link below.
 
-{% include search-info.html %}
+{%
+  include button.html
+  link="BaysanLab/publications"
+  text="More About Publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/article1.jpg"
+  link="BaysanLab/publications"
+  title="Publications"
+  text=text
+%}
+
+{% capture text %}
+
+Our posters are mainly related with Next Generation Sequencing (NGS) pipeline optimizations and cancer genomics studies.
+
+{%
+  include button.html
+  link="BaysanLab/posters"
+  text="More About Posters"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/first-project.png"
+  link="BaysanLab/posters"
+  title="Posters"
+  text=text
+%}
