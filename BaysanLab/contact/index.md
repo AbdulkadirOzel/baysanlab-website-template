@@ -21,7 +21,7 @@ Baysan Lab is part of Faculty of Computer And Informatics Engineering at Istanbu
   type="address"
   text="Google Maps"
   tooltip="Our location on Google Maps at ITU"
-  link="<https://goo.gl/maps/LSHJ3zbvkp97XWBA6>"
+  link="https://goo.gl/maps/LSHJ3zbvkp97XWBA6"
 %}
 
 {% include section.html %}
