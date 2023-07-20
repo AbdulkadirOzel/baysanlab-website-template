@@ -1,12 +1,11 @@
 ---
-title: Home
+title: Posters
 description: Home Page of Bioinformatics Research Group
 nav:
-  order: 1
+  order: 2
   tooltip: Main Page
-  main: 1
+  main: hide
 ---
-
 
 # BIOINFORMATICS RESEARCH GROUP
 

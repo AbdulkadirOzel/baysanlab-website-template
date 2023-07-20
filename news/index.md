@@ -1,9 +1,11 @@
 ---
 title: News
 nav:
-  order: 6
+  order: 7
   tooltip: Musings and miscellany
+  main: 1
 ---
+
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 

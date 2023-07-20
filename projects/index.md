@@ -3,6 +3,7 @@ title: Projects
 nav:
   order: 3
   tooltip: Software, datasets, and more
+  main: hide
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
