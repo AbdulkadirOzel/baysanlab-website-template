@@ -30,6 +30,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_posts
+  - scope:
+      type: "projects"
+    values:
+      layout: project
 
 collections:
   # generate page for each member
