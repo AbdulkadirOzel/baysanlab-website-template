@@ -14,14 +14,14 @@ Baysan Lab is part of Faculty of Computer And Informatics Engineering at Istanbu
   include button.html
   type="email"
   text="Baysan Lab"
-  link="baysan@gmail.com"
+  link="<baysan@gmail.com>"
 %}
 {%
   include button.html
   type="address"
   text="Google Maps"
   tooltip="Our location on Google Maps at ITU"
-  link="https://goo.gl/maps/LSHJ3zbvkp97XWBA6"
+  link="<https://goo.gl/maps/LSHJ3zbvkp97XWBA6>"
 %}
 
 {% include section.html %}
@@ -47,4 +47,3 @@ Baysan Lab is part of Faculty of Computer And Informatics Engineering at Istanbu
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
