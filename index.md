@@ -9,9 +9,36 @@ Bioinformatics: We develop computational models and automated analysis methods f
 
 Data mining, data management, databases: We develop data mining and management algorithms to automatically predict variety of data pieces in diverse applications that range from predicting high impact scientific papers to mining graph and text patterns in biomedical databases.
 
+## Positions Available!
+
+We are looking for graduate and undergraduate students to participate in various research projects! Candidates with good programming and analytical thinking skills are encouraged to apply. Research assistantship with TUBITAK/TUSEB support is available for qualified promising graduate students. Please contact us with your application by <a href="/contact/" style="text-decoration: none;">clicking here</a>.
+
 {% include section.html %}
 
 ## Highlights
+
+{% capture text %}
+
+Meet the Bioinformatics Research Group researchers!
+
+{%
+  include button.html
+  link="team"
+  text="See People Page"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/team.jpg"
+  link="BaysanLab"
+  title="People"
+  text=text
+%}
 
 {% capture text %}
 
@@ -30,7 +57,7 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {%
   include feature.html
-  image="images/baysanlab.png"
+  image="images/baysanlab1.png"
   link="BaysanLab"
   title="Baysan Lab"
   text=text
@@ -42,7 +69,7 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {%
   include button.html
-  link="ÇakmakLab"
+  link="CakmakLab"
   text="See Çakmak Lab Page"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -54,7 +81,7 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 {%
   include feature.html
   image="images/cakmaklab.png"
-  link="ÇakmakLab"
+  link="CakmakLab"
   title="Çakmak Lab"
   style="bare"
   text=text
