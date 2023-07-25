@@ -1,6 +1,6 @@
 ---
 name: Mehmet Baysan, PhD
-image: images/photo.jpg
+image: images/mehmet-baysan.jpg
 role: pi
 aliases:
   - M. Baysan
