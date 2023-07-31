@@ -1,7 +1,8 @@
 ---
 name: Zeynep Betül Altundal
 image: images/photo.jpg
-role: undergrad
+role: undergrad_baysan
+description: Computer Engineering
 group: alum
 links:
   github: john-doe

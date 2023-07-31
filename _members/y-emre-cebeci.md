@@ -1,7 +1,8 @@
 ---
 name: Yunus Emre Cebeci, MSc
 image: images/photo.jpg
-role: phd
+role: phd_baysan
+description: Computer Engineering
 group: alum
 links:
   github: john-doe

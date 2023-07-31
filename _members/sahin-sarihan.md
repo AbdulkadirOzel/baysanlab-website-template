@@ -1,7 +1,8 @@
 ---
 name: Şahin Sarıhan, MSc
 image: images/photo.jpg
-role: alumni
+role: alumni_baysan
+description: Computer Engineering Working at ...
 group: alum
 links:
   github: john-doe

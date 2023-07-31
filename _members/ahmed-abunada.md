@@ -1,8 +1,8 @@
 ---
-name: Abdullah Asım Emul
-image: images/photo.jpg
-role: undergrad_baysan
-description: Computer Engineering
+name: Ahmed Abunada, BSc
+image: 
+role: master_baysan
+description: Computer Engineering 
 group: alum
 links:
   github: john-doe

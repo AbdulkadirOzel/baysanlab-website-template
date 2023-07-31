@@ -1,8 +1,8 @@
 ---
-name: Mehmet Baysan, PhD
-image: images/baysanlab/mehmet-baysan.jpg
-role: pi_baysan
-description: Computer Engineering baysanm@itu.edu.tr
+name: Ali Çakmak, PhD
+image: images/cakmaklab/ali-cakmak.jpg
+role: pi_cakmak
+description: Computer Engineering ali.cakmak@itu.edu.tr
 aliases:
   - M. Baysan
   - M Baysan

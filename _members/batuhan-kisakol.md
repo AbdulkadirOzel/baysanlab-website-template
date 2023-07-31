@@ -1,8 +1,9 @@
 ---
 name: Batuhan Kısakol, MSc
 image: images/photo.jpg
-role: alumni
+role: alumni_baysan
 group: alum
+description: Computer Engineering Working at...
 links:
   github: john-doe
 ---

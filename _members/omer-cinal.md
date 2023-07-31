@@ -1,7 +1,8 @@
 ---
 name: Ömer Çinal, BSc
 image: images/photo.jpg
-role: master
+role: alumni_baysan
+description: Computer Engineering Working at...
 group: alum
 links:
   github: john-doe

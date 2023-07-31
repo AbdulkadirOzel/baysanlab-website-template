@@ -1,8 +1,10 @@
 ---
 name: Ersin Onur Erdoğan, BSc
 image: images/photo.jpg
-role: master
+role: master_baysan
 group: alum
+description: Computer Engineering
+lab: baysan
 links:
   github: john-doe
 ---
