@@ -1,34 +1,186 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1002/ijc.30887
-  image: https://onlinelibrary.wiley.com/cms/asset/c11c6ced-4c25-4d4a-8800-39714e45894a/ijc30887-fig-0001-m.jpg
-
-- id: doi:10.4137/CIN.S14027
-  image: https://journals.sagepub.com/cms/10.4137/CIN.S14027/asset/images/large/10.4137_cin.s14027-fig2.jpeg
-
-- id: doi:10.1371/journal.pone.0094045
-
-- id: doi:10.1371/journal.pone.0062982
-
-- id: doi:10.1371/journal.pone.0047839
-
-- id: doi:10.1371/journal.pone.0051407
-  image: https://ndownloader.figstatic.com/files/285927/preview/285927/preview.jpg
-
-- id: doi:10.21541/apjes.403727
+ - id: 10.1007/s11517-022-02707-9
+   authors:
+     - Ranan Aktas
+     - Ali Cakmak
+     - Huzeyfe Ayaz
+     - Soykan Arıkan
+     - Ali R. Ibrahimzada
+     - Şeyda Demirkol
+     - Dilara Sönmez
+     - Mehmet T. Hakan
+     - Saime T. Sürmen
+     - Cem Horozoğlu
+     - Mehmet B. Doğan
+     - Özlem Küçükhüseyin
+     - Canan Cacına
+     - Bayram Kıran
+     - Ümit Zeybek
+     - Mehmet Baysan
+     - İlhan Yaylım
+ - id: 10.1158/1538-7445.CRC22-A029
+ - id: 10.26650/JARHS2021-1135821
+ - id: 10.3906/biy-2008-8
+ - id: 10.21541/apjes.403727
+ - id: 10.1002/ijc.30887
+ - id: 10.1016/j.gene.2016.04.042
+ - id: 10.1093/neuonc/nou275.4
+ - id: 10.1371/journal.pone.0094045
+ - id: 10.4137/CIN.S22020
+ - id: 10.1016/j.orl.2013.10.002
+ - id: 10.1371/journal.pone.0062982
+ - id: 10.1016/j.dam.2012.08.003
+ - id: 10.1371/journal.pone.0051407
+ - id: 10.1371/journal.pone.0047839
+ - id: 10.1016/j.adhoc.2012.03.009
+ - id: 10.1007/s10951-011-0264-7
+ - id: 10.1016/j.dam.2010.12.022
+ - id: 10.1109/TPDS.2008.169
+ - id: 10.1016/j.adhoc.2007.06.002
+ - id: 10.1109/.2006.1629387
+   date: '2006-01-01'
+ - id: 10.1109/BROADNETS.2004.44
+   date: '2004-01-01'
+ - id: 10.1109/
+   title: Modulation of YAP1 expression and other related signaling pathways in HepG2 cells by extracellular matrix, contact inhibition and cell density
+   authors:
+     - Ranan Aktas 
+     - Zeynep Akbulut
+     - Hatice Maraş
+     - Yaprak Çakıl Dönmez
+     - Damla Kayalı
+     - Ayca Karagoz Koroglu
+     - Mustafa Erinc Sitar
+     - Batuhan Kısakol
+     - Mehmet Baysan
+   publisher: American Association for the Study of Liver Diseases
+   date: '2022-01-01'
+   link: http://acikerisim.maltepe.edu.tr/xmlui/handle/20.500.12415/10723
+ - id: 10.1007/s11517-022-02707-9
+ - id: 10.1109/TCBB.2020.3008196
+ - id: 10.1016/j.eswa.2020.113762
+ - id: 10.1145/3481646.3481649
+ - id: 10.1142/s0219720020500262
+ - id: 10.3906/elk-1809-167
+ - id: 10.1080/03155986.2018.1533204
+ - id: 10.3906/elk-1806-96
+ - id: 10.1142/S0219525918500108
+ - id: 10.18201/ijisae.2017526690
+ - id: 10.1145/2661829.2662066
+ - id: 10.1093/database/bau091
+ - id: 10.1145/2506583.2506621
+ - id: 10.1186/1752-0509-6-67
+ - id: 10.1145/2384691.2384696
+ - id: 10.1142/S0219720012400033
+ - id: 10.1186/1752-0509-5-188
+ - id: 10.1145/2147805.2147856
+ - id: 10.1145/1854776.1854799
+ - id: 10.1145/1854776.1854855
+ - id: 10.1142/S0219720010004604
+ - id: 10.1145/1774088.1774417
+ - id: 10.1093/bioinformatics/btn459
+ - id: 10.1109/ISCIS.2009.5291838
+ - id: 10.1109/ISCIS.2009.5291881
+ - id: 10.1007/s00778-008-0099-9
+ - id: 10.1186/1471-2105-9-143
+ - id: 10.1145/1353343.1353372
+ - id: 10.1093/bioinformatics/btm409
+ - id: 10.1109/SSDBM.2007.35
+ - id: 10.1109/ICDEW.2007.4401002
+ - id: 10.1142/9789812772435_0022
+ - id: 10.1109/SSDBM.2006.49
+   date: '2006-07-24'
+ - id: 10.1109/SSDBM.2006.36
+   date: '2006-07-24'
+ - id: 10.1007/11599517_66
+ - id: 10.1093/bioinformatics/btp520
+ - id: 10.1007/1
+   title: HITS- AND PAGERANK-BASED IMPORTANCE SCORE COMPUTATIONS FOR ACM ANTHOLOGY PAPERS
+   authors:
+     - Ali Cakmak
+   publisher: Tech. Report, CWRU
+   date: '2003-01-01'
+   link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8c60f22ac479828b6b724c14112b05be56690d91
+ - id: 10.1007/2
+   title: Creating hybrid and top-frequency histograms
+   authors:
+     - Sunil P. Chakkappen
+     - Mohamed Zait
+     - Allison W. Lee
+     - Ali Cakmak
+   publisher: US Patent, Patent No:11403295
+   date: '2022-08-02'
+   link: https://patents.google.com/patent/US11403295B2/en
+ - id: 10.1007/3
+   title: A system and method for sportsman training
+   authors:
+     - Emrullah Delibas
+     - Ali Uzun
+     - Mehmet Fatih Inan
+     - Onur Guzey
+     - Ali Cakmak
+   publisher: US Patent, Patent No:0206278
+   date: '2019-07-04'
+   link: https://patents.google.com/patent/US20190206278A1/en
+ - id: 10.1007/4
+   title: Creating and using data that indicates misestimates of actual costs
+   authors:
+     - Sunil P. Chakkappen
+     - Mohamed Zait
+     - Allison W. Lee
+     - Ali Cakmak
+   publisher: US Patent, Patent No:9471631
+   date: '2016-10-16'
+   link: https://patents.google.com/patent/US9471631B2/en
+ - id: 10.1007/5
+   title: Training the Data Scientists of the Future
+   authors:
+     - Ahmet Bulut
+     - Tarik Arici
+     - Onur Guzey
+     - Baris Arslan
+     - Ali Cakmak
+   publisher: BIG DATA AND ANALYTICS EDUCATION CONFERENCE
+   date: '2014-10-01'
+   link: https://www.researchgate.net/publication/273452849_Training_the_Data_Scientists_of_the_Future
+ - id: 10.1007/6
+   title: 'Managing and Querying Mammalian Metabolic Networks: A Metabolism Query Language and Its Query Processing'
+   authors:
+     - Ali Cakmak
+     - Gultekin Ozsoyoglu
+     - Richard W Hanson
+   publisher: 8th International Conference on Computational Systems Bioinformatics (CSB)
+   date: '2009-10-01'
+   link: https://csb2009.org/pdf/057Cakmak.pdf
+ - id: 10.1007/7
+   title: Mining Metabolic Networks and Biomedical Literature
+   authors:
+     - Ali Cakmak
+   publisher: Case Western Reserve University
+   date: '2009-01-01'
+   link: https://rave.ohiolink.edu/etdc/view?acc_num=case1223490345
+ - id: 10.1007/8
+   title: Oracle Database SQL Tuning Guide, 12c Release 1 (12.1) E15858-15
+   authors:
+     - Pete Belknap
+     - Ali Cakmak
+     - Sunil Chakkappen
+     - Immanuel Chan
+     - Deba Chatterjee
+     - Dinesh Das
+     - Leonidas Galanis
+     - Bruce Golbus
+     - Shantanu Joshi
+     - Tom Kyte
+     - Allison Lee
+     - Sue Lee
+     - David McDermid
+     - Colin McGregor
+     - Hong Su
+     - Murali Thiyagarajah
+     - Mark Townsend
+     - Randy Urbano
+     - Bharath Venkatakrishnan
+     - Hailing Yu
+   publisher: Case Western Reserve University
+   date: '2013-05-01'
+   link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=559e2a4888895e92f7ed4a7ae553c960cdef4b57

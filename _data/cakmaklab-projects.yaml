@@ -1,14 +1,14 @@
-- title: Comparative Sequencing Analysis Platform
+- title: Multi-Omics-supported Personalized Treatment Recommendation for Patients
   group: featured
-  image: images/project3_bl.png
-  link: /BaysanLab/projects/cosap.html
-  description: CoSAP is an easy yet comprehensive pipeline creation tool for NGS data...
+  image: images/cakmaklab_project/multi-omics-1.png
+  link: /CakmakLab/projects/multi-omics.html
+  description: Increasing availability of high throughput omics data at decreasing costs ...
   tags:
     - bioinformatics
-    - genomic
-    - pipeline
-    - workflow
-    - NGS
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
 
 - title: Relation Of Methylation with Survival, p53 Mutation and Low Apoptosis in Cancer
   group: featured
