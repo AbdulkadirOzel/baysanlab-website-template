@@ -1,21 +1,37 @@
 ---
 title: People
 nav:
-  order: 6
+  order: 7
   tooltip: About our team
   main: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Bioinformatics Research Group Members
+# {% include icon.html icon="fa-solid fa-users" %}ITU Bioinformatics Research Group Members
+{:.center}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+### Faculty
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: pi_cakmak" %}
+{% include list.html data="members" component="portrait" filters="role: pi_baysan" %}
 ---
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+### PhD Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: phd_baysan" %}
+{% include list.html data="members" component="portrait" filters="role: phd_cakmak" %}
 ---
-{% include list.html data="members" component="portrait" filters="role: master" %}
+### Master Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="status: master" %}
 ---
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+### Undergrad Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="status: undergrad" %}
 ---
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+### Alumni
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: alumni_baysan" %}
+{% include list.html data="members" component="portrait" filters="role: alumni_cakmak" %}
+
+{% include section.html %}
