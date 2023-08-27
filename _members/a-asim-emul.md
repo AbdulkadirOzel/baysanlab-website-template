@@ -1,11 +1,12 @@
 ---
 name: Abdullah Asım Emul
 image: images/photo.jpg
-role: undergrad_baysan
-description: Computer Engineering
+role: master_baysan
+status: master
+description: Computer Engineering emul19@itu.edu.tr
 group: alum
 links:
-  github: john-doe
+  github: asimemul
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hello, I am Abdullah. I am currently pursuing a master's degree in computer engineering at Istanbul Technical University where I also earned my bachelor's degree in the same field. My primary interest is software development. I was introduced to bioinformatics through BaysanLab during my undergraduate studies. My work in the lab focuses on application development related to bioinformatics.

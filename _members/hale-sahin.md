@@ -2,6 +2,7 @@
 name: Hale Şahin, BSc
 image: images/cakmaklab/hale-sahin.png
 role: master_cakmak
+status: master
 description: Computer Engineering sahinh23@itu.edu.tr
 group: alum
 links:

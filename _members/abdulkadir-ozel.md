@@ -2,6 +2,7 @@
 name: Abdulkadir Özel, BSc
 image: images/baysanlab/abdulkadir-ozel.png
 role: master_baysan
+status: master
 description: Molecular Biology & Genetics ozelab16@itu.edu.tr
 group: alum
 links:

@@ -2,6 +2,7 @@
 name: Sadi Çelik, BSc
 image: images/cakmaklab/sadi-celik.png
 role: master_cakmak
+status: master
 description: Computer Engineering celiks21@itu.edu.tr
 group: alum
 links:

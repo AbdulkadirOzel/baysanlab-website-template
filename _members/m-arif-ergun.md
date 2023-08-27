@@ -1,12 +1,13 @@
 ---
 name: Mehmet Arif Ergün, BSc
-image: images/photo.jpg
+image: images/baysanlab/m-arif-ergun.jpg
 role: master_baysan
-description: Computer Engineering baysanm@itu.edu.tr
+status: master
+description: Computer Engineering mehmetarifergun@gmail.com
 group: alum
 links:
-  github: john-doe
-  email: baysanm@itu.edu.tr
+  github: marifergun
+  email: mehmetarifergun@gmail.com
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I pursue my master's degree in Computer Engineering program of Istanbul Technical University. Previously, I was an undergraduate teaching and research assistant at Istanbul Sehir University where I got my Bsc of computer science.

@@ -2,6 +2,7 @@
 name: Kerem Kosif, BSc
 image: images/cakmaklab/kerem-kosif.png
 role: undergrad_cakmak
+status: undergrad
 description: Computer Engineering keremksf@gmail.com
 group: alum
 links:

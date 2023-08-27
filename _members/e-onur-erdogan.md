@@ -1,12 +1,13 @@
 ---
 name: Ersin Onur Erdoğan, BSc
-image: images/photo.jpg
-role: master_baysan
+image: images/baysanlab/ersin-erdogan.png
+role: phd_baysan
+status: phd
 group: alum
-description: Computer Engineering
+description: Computer Engineering ersinonur.erdogan@iuc.edu.tr
 lab: baysan
 links:
-  github: john-doe
+  email: ersinonur.erdogan@iuc.edu.tr
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+After completing Istanbul Şehir University Computer Engineering Undergraduate Program and IUC Computer Engineering Master's program, Ersin is currently continuing his education in ITU Computer Engineering Doctorate Program. He also works as a Research Assistant at IUC Computer Engineering Department. His research interests include Data Science, Machine Learning and Computational Genomics.

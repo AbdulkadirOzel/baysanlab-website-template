@@ -2,6 +2,7 @@
 name: Utku Sabri Kaya, BSc
 image: images/cakmaklab/utku-sabri-kaya.png
 role: master_cakmak
+status: master
 description: Computer Engineering kayau17@itu.edu.tr
 group: alum
 links:

@@ -2,6 +2,7 @@
 name: Gül Eda Aydemir, BSc
 image: images/baysanlab/gul-eda-aydemir.png
 role: master_baysan
+status: master
 description: Computer Engineering guledaaydemir@gmail.com 
 group: alum
 links:

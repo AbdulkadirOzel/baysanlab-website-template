@@ -1,11 +1,12 @@
 ---
 name: Zeynep Betül Altundal
-image: images/photo.jpg
+image: images/baysanlab/z-betul-altundal.jpeg
 role: undergrad_baysan
-description: Computer Engineering
+status: undergrad
+description: Computer Engineering zeynepbetulaltundal@gmail.com
 group: alum
 links:
-  github: john-doe
+  github: zbetulaltundal
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi, I’m Zeynep Betül Altundal. I’m a 4th year Computer Engineering student at ITU. I’m interested in artificial intelligence and data engineering. Other than that, I’m an amateur sprinter and I love anime.

@@ -2,6 +2,7 @@
 name: Ahmed Abunada, BSc
 image: 
 role: master_baysan
+status: master
 description: Computer Engineering 
 group: alum
 links:

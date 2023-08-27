@@ -2,6 +2,7 @@
 name: Batuhan Eroğlu
 image: images/baysanlab/batuhan-eroglu.jpeg
 role: undergrad_baysan
+status: undergrad
 group: alum
 description: Computer Engineering 
 links:
