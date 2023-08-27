@@ -3,7 +3,7 @@ title: Baysan Lab
 description: Current Baysan Lab Projects in the Bioinformatics Research Group
 permalink: /BaysanLab/
 nav:
-  order: 5
+  order: 2
   tooltip: Current Research
   main: 1
 ---
@@ -24,7 +24,7 @@ The Baysan Lab consists of researchers with different scientifical backgrounds a
 
 {% capture text %}
 
-There are many projects carried out by our lab together with Tüseb. Some of these can be mentioned as Türkiye Genome Project and Covid Genome Project. You can contact us on our contact page to work on such projects.
+There are many projects carried out by our lab together. One of the prominent projects is the Comparative Sequencing Analysis Platform (CoSAP). CoSAP is an easy yet comprehensive pipeline creation tool for NGS data. It provides reproducibility and aims to give deeper insight about the powers and limitations of the current tools by allowing users to compare results of different pipelines.
 
 {%
   include button.html
@@ -39,7 +39,7 @@ There are many projects carried out by our lab together with Tüseb. Some of the
 
 {%
   include feature.html
-  image="images/logol.png"
+  image="images/project3_bl.png"
   link="BaysanLab/projects"
   title="Projects"
   text=text
