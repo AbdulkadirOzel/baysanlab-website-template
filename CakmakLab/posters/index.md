@@ -9,7 +9,7 @@ nav:
 
 Baysan Lab poster page
 
-# BIOINFORMATICS RESEARCH GROUP
+# ITU BIOINFORMATICS RESEARCH GROUP
 
 Welcome to the Bioinformatics Research Group at ITU. This group combines the efforts of Assoc. Prof. Mehmet BAYSAN (Baysan Lab) and Assoc. Prof. Ali ÇAKMAK (Çakmak Lab).  Baysan Lab and Çakmak Lab consist of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine.
 
