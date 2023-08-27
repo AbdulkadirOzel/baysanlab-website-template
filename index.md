@@ -1,7 +1,7 @@
 ---
 ---
 
-# BIOINFORMATICS RESEARCH GROUP
+# ITU BIOINFORMATICS RESEARCH GROUP
 
 Welcome to the Bioinformatics Research Group at ITU. This group combines the efforts of Assoc. Prof. Mehmet BAYSAN (Baysan Lab) and Assoc. Prof. Ali ÇAKMAK (Çakmak Lab).  Baysan Lab and Çakmak Lab consist of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine.
 
@@ -11,8 +11,14 @@ Data mining, data management, databases: We develop data mining and management a
 
 ## Positions Available!
 
-We are looking for graduate and undergraduate students to participate in various research projects! Candidates with good programming and analytical thinking skills are encouraged to apply. Research assistantship with TUBITAK/TUSEB support is available for qualified promising graduate students. Please contact us with your application by <a href="/contact/" style="text-decoration: none;">clicking here</a>.
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="/images/research_student_bg.png" alt="Örnek Resim" width="180" height="240" style="margin-right: 25px;">
 
+  <p style="gap: 20px;"> 
+  We are looking for graduate and undergraduate students to participate in various research projects! Candidates with good programming and analytical thinking skills are encouraged to apply. Research assistantship with TUBITAK/TUSEB support is available for qualified promising graduate students. Please contact us with your application by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHzXpqPr0JQ2X71AHkqUtZ17Yes0GLKx1S9pLV0yDZABxjCw/viewform" style="text-decoration: none;">clicking here</a>.
+  </p>
+
+</div>
 {% include section.html %}
 
 ## Highlights
@@ -57,7 +63,7 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {%
   include feature.html
-  image="images/baysanlab1.png"
+  image="images/baysanlab.png"
   link="BaysanLab"
   title="Baysan Lab"
   text=text
