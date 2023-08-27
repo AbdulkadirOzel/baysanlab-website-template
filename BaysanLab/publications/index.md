@@ -18,4 +18,4 @@ Our up-to-date articles from members of Baysan Lab are shown in chronologic orde
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="baysanlab-citations" component="citation" style="rich" %}
