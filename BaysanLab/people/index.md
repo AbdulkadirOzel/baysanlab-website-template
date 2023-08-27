@@ -11,15 +11,24 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+### Principal Investigator
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: pi_baysan" %}
 ---
-
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+### PhD Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: phd_baysan" %}
 ---
-
-{% include list.html data="members" component="portrait" filters="role: master" %}
+### Master Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: master_baysan" %}
 ---
-
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+### Undergrad Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: undergrad_baysan" %}
+---
+### Alumni
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: alumni_baysan" %}
 
 {% include section.html %}
