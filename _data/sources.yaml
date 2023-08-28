@@ -1,4 +1,4 @@
- - id: 10.1007/s11517-022-02707-9
+ - id: doi:10.1007/s11517-022-02707-9
    authors:
      - Ranan Aktas
      - Ali Cakmak
@@ -17,30 +17,30 @@
      - Ümit Zeybek
      - Mehmet Baysan
      - İlhan Yaylım
- - id: 10.1158/1538-7445.CRC22-A029
- - id: 10.26650/JARHS2021-1135821
- - id: 10.3906/biy-2008-8
- - id: 10.21541/apjes.403727
- - id: 10.1002/ijc.30887
- - id: 10.1016/j.gene.2016.04.042
- - id: 10.1093/neuonc/nou275.4
- - id: 10.1371/journal.pone.0094045
- - id: 10.4137/CIN.S22020
- - id: 10.1016/j.orl.2013.10.002
- - id: 10.1371/journal.pone.0062982
- - id: 10.1016/j.dam.2012.08.003
- - id: 10.1371/journal.pone.0051407
- - id: 10.1371/journal.pone.0047839
- - id: 10.1016/j.adhoc.2012.03.009
- - id: 10.1007/s10951-011-0264-7
- - id: 10.1016/j.dam.2010.12.022
- - id: 10.1109/TPDS.2008.169
- - id: 10.1016/j.adhoc.2007.06.002
- - id: 10.1109/.2006.1629387
+ - id: doi:10.1158/1538-7445.CRC22-A029
+ - id: doi:10.26650/JARHS2021-1135821
+ - id: doi:10.3906/biy-2008-8
+ - id: doi:10.21541/apjes.403727
+ - id: doi:10.1002/ijc.30887
+ - id: doi:10.1016/j.gene.2016.04.042
+ - id: doi:10.1093/neuonc/nou275.4
+ - id: doi:10.1371/journal.pone.0094045
+ - id: doi:10.4137/CIN.S22020
+ - id: doi:10.1016/j.orl.2013.10.002
+ - id: doi:10.1371/journal.pone.0062982
+ - id: doi:10.1016/j.dam.2012.08.003
+ - id: doi:10.1371/journal.pone.0051407
+ - id: doi:10.1371/journal.pone.0047839
+ - id: doi:10.1016/j.adhoc.2012.03.009
+ - id: doi:10.1007/s10951-011-0264-7
+ - id: doi:10.1016/j.dam.2010.12.022
+ - id: doi:10.1109/TPDS.2008.169
+ - id: doi:10.1016/j.adhoc.2007.06.002
+ - id: doi:10.1109/.2006.1629387
    date: '2006-01-01'
- - id: 10.1109/BROADNETS.2004.44
+ - id: doi:10.1109/BROADNETS.2004.44
    date: '2004-01-01'
- - id: 10.1109/
+ - id: doi:none
    title: Modulation of YAP1 expression and other related signaling pathways in HepG2 cells by extracellular matrix, contact inhibition and cell density
    authors:
      - Ranan Aktas 
@@ -55,52 +55,51 @@
    publisher: American Association for the Study of Liver Diseases
    date: '2022-01-01'
    link: http://acikerisim.maltepe.edu.tr/xmlui/handle/20.500.12415/10723
- - id: 10.1007/s11517-022-02707-9
- - id: 10.1109/TCBB.2020.3008196
- - id: 10.1016/j.eswa.2020.113762
- - id: 10.1145/3481646.3481649
- - id: 10.1142/s0219720020500262
- - id: 10.3906/elk-1809-167
- - id: 10.1080/03155986.2018.1533204
- - id: 10.3906/elk-1806-96
- - id: 10.1142/S0219525918500108
- - id: 10.18201/ijisae.2017526690
- - id: 10.1145/2661829.2662066
- - id: 10.1093/database/bau091
- - id: 10.1145/2506583.2506621
- - id: 10.1186/1752-0509-6-67
- - id: 10.1145/2384691.2384696
- - id: 10.1142/S0219720012400033
- - id: 10.1186/1752-0509-5-188
- - id: 10.1145/2147805.2147856
- - id: 10.1145/1854776.1854799
- - id: 10.1145/1854776.1854855
- - id: 10.1142/S0219720010004604
- - id: 10.1145/1774088.1774417
- - id: 10.1093/bioinformatics/btn459
- - id: 10.1109/ISCIS.2009.5291838
- - id: 10.1109/ISCIS.2009.5291881
- - id: 10.1007/s00778-008-0099-9
- - id: 10.1186/1471-2105-9-143
- - id: 10.1145/1353343.1353372
- - id: 10.1093/bioinformatics/btm409
- - id: 10.1109/SSDBM.2007.35
- - id: 10.1109/ICDEW.2007.4401002
- - id: 10.1142/9789812772435_0022
- - id: 10.1109/SSDBM.2006.49
+ - id: doi:10.1109/TCBB.2020.3008196
+ - id: doi:10.1016/j.eswa.2020.113762
+ - id: doi:10.1145/3481646.3481649
+ - id: doi:10.1142/s0219720020500262
+ - id: doi:10.3906/elk-1809-167
+ - id: doi:10.1080/03155986.2018.1533204
+ - id: doi:10.3906/elk-1806-96
+ - id: doi:10.1142/S0219525918500108
+ - id: doi:10.18201/ijisae.2017526690
+ - id: doi:10.1145/2661829.2662066
+ - id: doi:10.1093/database/bau091
+ - id: doi:10.1145/2506583.2506621
+ - id: doi:10.1186/1752-0509-6-67
+ - id: doi:10.1145/2384691.2384696
+ - id: doi:10.1142/S0219720012400033
+ - id: doi:10.1186/1752-0509-5-188
+ - id: doi:10.1145/2147805.2147856
+ - id: doi:10.1145/1854776.1854799
+ - id: doi:10.1145/1854776.1854855
+ - id: doi:10.1142/S0219720010004604
+ - id: doi:10.1145/1774088.1774417
+ - id: doi:10.1093/bioinformatics/btn459
+ - id: doi:10.1109/ISCIS.2009.5291838
+ - id: doi:10.1109/ISCIS.2009.5291881
+ - id: doi:10.1007/s00778-008-0099-9
+ - id: doi:10.1186/1471-2105-9-143
+ - id: doi:10.1145/1353343.1353372
+ - id: doi:10.1093/bioinformatics/btm409
+ - id: doi:10.1109/SSDBM.2007.35
+ - id: doi:10.1109/ICDEW.2007.4401002
+ - id: doi:10.1142/9789812772435_0022
+ - id: doi:10.1109/SSDBM.2006.49
    date: '2006-07-24'
- - id: 10.1109/SSDBM.2006.36
+ - id: doi:10.1109/SSDBM.2006.36
    date: '2006-07-24'
- - id: 10.1007/11599517_66
- - id: 10.1093/bioinformatics/btp520
- - id: 10.1007/1
+ - id: doi:10.1007/11599517_66
+ - id: doi:10.1093/bioinformatics/btp520
+ - id: doi:none
    title: HITS- AND PAGERANK-BASED IMPORTANCE SCORE COMPUTATIONS FOR ACM ANTHOLOGY PAPERS
    authors:
      - Ali Cakmak
    publisher: Tech. Report, CWRU
    date: '2003-01-01'
    link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8c60f22ac479828b6b724c14112b05be56690d91
- - id: 10.1007/2
+ - id: doi:none
    title: Creating hybrid and top-frequency histograms
    authors:
      - Sunil P. Chakkappen
@@ -110,7 +109,7 @@
    publisher: US Patent, Patent No:11403295
    date: '2022-08-02'
    link: https://patents.google.com/patent/US11403295B2/en
- - id: 10.1007/3
+ - id: doi:none
    title: A system and method for sportsman training
    authors:
      - Emrullah Delibas
@@ -121,7 +120,7 @@
    publisher: US Patent, Patent No:0206278
    date: '2019-07-04'
    link: https://patents.google.com/patent/US20190206278A1/en
- - id: 10.1007/4
+ - id: doi:none
    title: Creating and using data that indicates misestimates of actual costs
    authors:
      - Sunil P. Chakkappen
@@ -131,7 +130,7 @@
    publisher: US Patent, Patent No:9471631
    date: '2016-10-16'
    link: https://patents.google.com/patent/US9471631B2/en
- - id: 10.1007/5
+ - id: doi:none
    title: Training the Data Scientists of the Future
    authors:
      - Ahmet Bulut
@@ -142,7 +141,7 @@
    publisher: BIG DATA AND ANALYTICS EDUCATION CONFERENCE
    date: '2014-10-01'
    link: https://www.researchgate.net/publication/273452849_Training_the_Data_Scientists_of_the_Future
- - id: 10.1007/6
+ - id: doi:none
    title: 'Managing and Querying Mammalian Metabolic Networks: A Metabolism Query Language and Its Query Processing'
    authors:
      - Ali Cakmak
@@ -151,14 +150,14 @@
    publisher: 8th International Conference on Computational Systems Bioinformatics (CSB)
    date: '2009-10-01'
    link: https://csb2009.org/pdf/057Cakmak.pdf
- - id: 10.1007/7
+ - id: doi:none
    title: Mining Metabolic Networks and Biomedical Literature
    authors:
      - Ali Cakmak
    publisher: Case Western Reserve University
    date: '2009-01-01'
    link: https://rave.ohiolink.edu/etdc/view?acc_num=case1223490345
- - id: 10.1007/8
+ - id: doi:none
    title: Oracle Database SQL Tuning Guide, 12c Release 1 (12.1) E15858-15
    authors:
      - Pete Belknap

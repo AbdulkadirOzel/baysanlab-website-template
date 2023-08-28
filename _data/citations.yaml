@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.1007/s11517-022-02707-9
+- id: doi:10.1007/s11517-022-02707-9
   title: Predicting the predisposition to colorectal cancer based on SNP profiles
     of immune phenotypes using supervised learning models
   authors:
@@ -318,7 +318,7 @@
   link: https://doi.org/dq5drx
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/.2006.1629387
+- id: doi:10.1109/.2006.1629387
   title: Cluster Based Approaches for End-to-End Complete Feedback Collection in Multicast
   authors:
   - M. Baysan
@@ -328,7 +328,7 @@
   link: https://doi.org/ftp9gb
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/BROADNETS.2004.44
+- id: doi:10.1109/BROADNETS.2004.44
   title: Improving energy savings in power adaptive broadcasting in MANETs
   authors:
   - M. Baysan
@@ -339,22 +339,32 @@
   link: https://doi.org/cwgrxj
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/
-  title: Modulation of YAP1 expression and other related signaling pathways in HepG2
-    cells by extracellular matrix, contact inhibition and cell density
+- id: none
+  title: Oracle Database SQL Tuning Guide, 12c Release 1 (12.1) E15858-15
   authors:
-  - Ranan Aktas
-  - Zeynep Akbulut
-  - "Hatice Mara\u015F"
-  - "Yaprak \xC7ak\u0131l D\xF6nmez"
-  - "Damla Kayal\u0131"
-  - Ayca Karagoz Koroglu
-  - Mustafa Erinc Sitar
-  - "Batuhan K\u0131sakol"
-  - Mehmet Baysan
-  publisher: American Association for the Study of Liver Diseases
-  date: '2022-01-01'
-  link: http://acikerisim.maltepe.edu.tr/xmlui/handle/20.500.12415/10723
+  - Pete Belknap
+  - Ali Cakmak
+  - Sunil Chakkappen
+  - Immanuel Chan
+  - Deba Chatterjee
+  - Dinesh Das
+  - Leonidas Galanis
+  - Bruce Golbus
+  - Shantanu Joshi
+  - Tom Kyte
+  - Allison Lee
+  - Sue Lee
+  - David McDermid
+  - Colin McGregor
+  - Hong Su
+  - Murali Thiyagarajah
+  - Mark Townsend
+  - Randy Urbano
+  - Bharath Venkatakrishnan
+  - Hailing Yu
+  publisher: Case Western Reserve University
+  date: '2013-05-01'
+  link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=559e2a4888895e92f7ed4a7ae553c960cdef4b57
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TCBB.2020.3008196
@@ -813,115 +823,5 @@
   publisher: Bioinformatics
   date: '2009-08-27'
   link: https://doi.org/dwrdfj
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/1
-  title: HITS- AND PAGERANK-BASED IMPORTANCE SCORE COMPUTATIONS FOR ACM ANTHOLOGY
-    PAPERS
-  authors:
-  - Ali Cakmak
-  publisher: Tech. Report, CWRU
-  date: '2003-01-01'
-  link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8c60f22ac479828b6b724c14112b05be56690d91
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/2
-  title: Creating hybrid and top-frequency histograms
-  authors:
-  - Sunil P. Chakkappen
-  - Mohamed Zait
-  - Allison W. Lee
-  - Ali Cakmak
-  publisher: US Patent, Patent No:11403295
-  date: '2022-08-02'
-  link: https://patents.google.com/patent/US11403295B2/en
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/3
-  title: A system and method for sportsman training
-  authors:
-  - Emrullah Delibas
-  - Ali Uzun
-  - Mehmet Fatih Inan
-  - Onur Guzey
-  - Ali Cakmak
-  publisher: US Patent, Patent No:0206278
-  date: '2019-07-04'
-  link: https://patents.google.com/patent/US20190206278A1/en
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/4
-  title: Creating and using data that indicates misestimates of actual costs
-  authors:
-  - Sunil P. Chakkappen
-  - Mohamed Zait
-  - Allison W. Lee
-  - Ali Cakmak
-  publisher: US Patent, Patent No:9471631
-  date: '2016-10-16'
-  link: https://patents.google.com/patent/US9471631B2/en
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/5
-  title: Training the Data Scientists of the Future
-  authors:
-  - Ahmet Bulut
-  - Tarik Arici
-  - Onur Guzey
-  - Baris Arslan
-  - Ali Cakmak
-  publisher: BIG DATA AND ANALYTICS EDUCATION CONFERENCE
-  date: '2014-10-01'
-  link: https://www.researchgate.net/publication/273452849_Training_the_Data_Scientists_of_the_Future
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/6
-  title: 'Managing and Querying Mammalian Metabolic Networks: A Metabolism Query Language
-    and Its Query Processing'
-  authors:
-  - Ali Cakmak
-  - Gultekin Ozsoyoglu
-  - Richard W Hanson
-  publisher: 8th International Conference on Computational Systems Bioinformatics
-    (CSB)
-  date: '2009-10-01'
-  link: https://csb2009.org/pdf/057Cakmak.pdf
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/7
-  title: Mining Metabolic Networks and Biomedical Literature
-  authors:
-  - Ali Cakmak
-  publisher: Case Western Reserve University
-  date: '2009-01-01'
-  link: https://rave.ohiolink.edu/etdc/view?acc_num=case1223490345
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/8
-  title: Oracle Database SQL Tuning Guide, 12c Release 1 (12.1) E15858-15
-  authors:
-  - Pete Belknap
-  - Ali Cakmak
-  - Sunil Chakkappen
-  - Immanuel Chan
-  - Deba Chatterjee
-  - Dinesh Das
-  - Leonidas Galanis
-  - Bruce Golbus
-  - Shantanu Joshi
-  - Tom Kyte
-  - Allison Lee
-  - Sue Lee
-  - David McDermid
-  - Colin McGregor
-  - Hong Su
-  - Murali Thiyagarajah
-  - Mark Townsend
-  - Randy Urbano
-  - Bharath Venkatakrishnan
-  - Hailing Yu
-  publisher: Case Western Reserve University
-  date: '2013-05-01'
-  link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=559e2a4888895e92f7ed4a7ae553c960cdef4b57
   plugin: sources.py
   file: sources.yaml
