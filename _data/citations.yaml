@@ -339,6 +339,7 @@
   link: https://doi.org/cwgrxj
   plugin: sources.py
   file: sources.yaml
+<<<<<<< HEAD
 - id: doi:none
   title: Oracle Database SQL Tuning Guide, 12c Release 1 (12.1) E15858-15
   authors:
@@ -367,6 +368,8 @@
   link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=559e2a4888895e92f7ed4a7ae553c960cdef4b57
   plugin: sources.py
   file: sources.yaml
+=======
+>>>>>>> 49608a45f3dc7931fc25ea13e2b3880a9f129929
 - id: doi:10.1109/TCBB.2020.3008196
   title: Personalized Metabolic Analysis of Diseases
   authors:
