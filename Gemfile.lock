@@ -9,12 +9,6 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    faraday (2.7.10)
-      faraday-net_http (>= 2.0, < 3.1)
-      ruby2_keywords (>= 0.0.4)
-    faraday-net_http (3.0.2)
-    faraday-retry (2.2.0)
-      faraday (~> 2.0)
     ffi (1.15.4)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -81,7 +75,6 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.6)
     rouge (4.1.3)
-    ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
     sass-embedded (1.66.1)
       google-protobuf (~> 3.23)
@@ -95,7 +88,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  faraday-retry
   ffi (< 1.15.5)
   jekyll (~> 4.3)
   jekyll-feed
