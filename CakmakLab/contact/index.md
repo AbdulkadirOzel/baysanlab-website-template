@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contacts
 
-Baysan Lab is part of Faculty of Computer And Informatics Engineering at Istanbul Technical University. Don't hesitate to contact us through any of the provided information. We will get back to you as soon as possible.
+Cakmak Lab is part of Faculty of Computer And Informatics Engineering at Istanbul Technical University. Don't hesitate to contact us through any of the provided information. We will get back to you as soon as possible.
 
 {%
   include button.html

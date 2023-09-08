@@ -1,11 +1,11 @@
 ---
 title: Home
-description: Home Page of Baysan Lab
+description: Home Page of Cakmak Lab
 permalink: /CakmakLab/
 nav:
   order: 1
-  tooltip: Main Page of Baysan Lab
+  tooltip: Main Page of Cakmak Lab
   CL: 1
 ---
 
-Baysan Lab home page
+Cakmak Lab home page

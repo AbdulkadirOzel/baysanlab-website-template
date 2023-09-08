@@ -1,22 +1,30 @@
 ---
 title: People
-description: People Baysan Lab
+description: People Cakmak Lab
 nav:
   order: 5
-  tooltip: People of Baysan Lab
+  tooltip: People of Cakmak Lab
   CL: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Baysan Lab Team
+# {% include icon.html icon="fa-solid fa-users" %}Cakmak Lab Team
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+### Principal Investigator
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: pi_cakmak" %}
 ---
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+### Master Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: master_cakmak" %}
 ---
-{% include list.html data="members" component="portrait" filters="role: master" %}
+### Undergrad Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: undergrad_cakmak" %}
 ---
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+### Alumni
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: alumni_cakmak" %}
 
 {% include section.html %}

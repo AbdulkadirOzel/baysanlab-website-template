@@ -6,4 +6,4 @@ nav:
   CL: 1
 ---
 
-BaysanLab blog page
+CakmakLab news page
