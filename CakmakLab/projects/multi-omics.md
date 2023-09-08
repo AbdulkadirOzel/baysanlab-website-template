@@ -16,7 +16,7 @@ Developing an individualized drug recommendation system: In this step, a clinica
 
 {%
   include figure.html
-  image="images/cakmaklab_project_image/multi-omics.png"
+  image="images/cakmaklab_project/multi-omics-1.png"
 %}
 
 {% endcapture %}
