@@ -39,22 +39,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Sarah Johnson | ITU BIOINFORMATICS RESEARCH GROUP</title>
+<title>ITU BIOINFORMATICS RESEARCH GROUP</title>
 
 <link rel="icon" href="">
 
-<meta name="title" content="Sarah Johnson">
-<meta name="description" content="Lead Programmer">
+<meta name="title" content="">
+<meta name="description" content="Bu bir deneme yazısıdır.">
 
-<meta property="og:title" content="Sarah Johnson">
+<meta property="og:title" content="">
 <meta property="og:site_title" content="ITU BIOINFORMATICS RESEARCH GROUP">
-<meta property="og:description" content="Lead Programmer">
+<meta property="og:description" content="Bu bir deneme yazısıdır.">
 <meta property="og:url" content="">
 <meta property="og:image" content="">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Sarah Johnson">
-<meta property="twitter:description" content="Lead Programmer">
+<meta property="twitter:title" content="">
+<meta property="twitter:description" content="Bu bir deneme yazısıdır.">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Sarah Johnson",
-    "description": "Lead Programmer",
-    "headline": "Sarah Johnson",
+    "name": "",
+    "description": "Bu bir deneme yazısıdır.",
+    "headline": "",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "" }
@@ -278,6 +278,34 @@
     <link href="/baysanlab-website-template/_styles/util.css" rel="stylesheet">
   
 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -315,7 +343,7 @@
 
 
 <header class="background" style="--image: url('/baysanlab-website-template/images/background.jpg')" data-dark="true">
-  <a href="/baysanlab-website-template/" class="home">
+  <a href="/baysanlab-website-template/CakmakLab" class="home">
     
       
              
@@ -326,7 +354,15 @@
       <span class="title" data-tooltip="Home">
         
           
-            <span> ITU BIOINFORMATICS RESEARCH GROUP </span>
+            <div align="left" style="position: absolute;left:40px;top:1em; font-size: 15px;"> 
+              <a href="/"> ITU Bioinformatics Research Group
+            </a>
+</div>
+            <br>
+            <div align="left" style="position: absolute;left:40px;bottom:1.2em; font-size: 24px;">
+              <a href="/CakmakLab/"> CAKMAK LAB
+            </a>
+</div>
           
         
         
@@ -342,49 +378,49 @@
 
     
       
-        <a href="/baysanlab-website-template/" data-tooltip="Main Page">
+        <a href="/baysanlab-website-template/CakmakLab/" data-tooltip="Main Page of Cakmak Lab">
           Home
         </a>
       
     
       
-        <a href="/baysanlab-website-template/BaysanLab/" data-tooltip="Current Research">
-          Baysan Lab
+        <a href="/baysanlab-website-template/CakmakLab/posters/" data-tooltip="Main Page">
+          Posters
         </a>
       
     
       
-        <a href="/baysanlab-website-template/CakmakLab/" data-tooltip="Current Research">
-          Cakmak Lab
-        </a>
-      
-    
-      
-        <a href="/baysanlab-website-template/publications/" data-tooltip="Published works">
-          Publications
-        </a>
-      
-    
-      
-        <a href="/baysanlab-website-template/projects/" data-tooltip="Software, datasets, and more">
+        <a href="/baysanlab-website-template/CakmakLab/projects/" data-tooltip="Software, datasets, and more">
           Projects
         </a>
       
     
       
-        <a href="/baysanlab-website-template/team/" data-tooltip="About our team">
+        <a href="/baysanlab-website-template/CakmakLab/publications/" data-tooltip="Published works">
+          Publications
+        </a>
+      
+    
+      
+        <a href="/baysanlab-website-template/CakmakLab/repo/" data-tooltip="Project repos">
+          Repo
+        </a>
+      
+    
+      
+        <a href="/baysanlab-website-template/CakmakLab/people/" data-tooltip="People of Cakmak Lab">
           People
         </a>
       
     
       
-        <a href="/baysanlab-website-template/news/" data-tooltip="Musings and miscellany">
+        <a href="/baysanlab-website-template/CakmakLab/news/" data-tooltip="Musings and miscellany">
           News
         </a>
       
     
       
-        <a href="/baysanlab-website-template/contact/" data-tooltip="Email, address, and location">
+        <a href="/baysanlab-website-template/CakmakLab/contact/" data-tooltip="Email, address, and location">
           Contact
         </a>
       
@@ -415,90 +451,39 @@
   
 
   <section class="background" data-size="page">
-    <div class="float">
+    <h1 id="drup-repositioning">Drup Repositioning</h1>
+
+<p>The main aim of this project is to develop a metabolism-based pipeline that will allow a computational investigation of whether the currently approved drugs for any disease are suitable for use in treating diseases other than their intended target. In summary, this project involves the following parts for each disease of interest.</p>
+
+<ul>
+  <li>
+    <p>Simulating the effect of each drug on patient metabolism: Each targeted enzyme by a drug would be inactivated, and the effect of these inactivations will be computationally simulated to obtain new metabolic profiles for patients.</p>
+  </li>
+  <li>
+    <p>Employing machine learning models to assess the new profiles: Subsequently, the classification model previously created and recorded for this disease in the classification model database will be applied to these new metabolic profiles calculated in the above step. If the proportion of patients who are classified as “healthy” with the new metabolic profiles is above a certain threshold, then the drug may be recommended for repositioning for this disease. The threshold value may be determined according to the average effectiveness rate of the approved drugs.</p>
+  </li>
+  <li>
+    <p>Exploring Combination Therapies: For some diseases, combinations of drugs are used as the main therapy. We will also computationally explore combination therapy options by unifying the targets of combined drugs into a single set, and then employ a similar approach as outlined above.</p>
+  </li>
+</ul>
+
+<div class="cols" style="--cols: 1">
   
-<div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Sarah Johnson">
-    <img src="/baysanlab-website-template/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/baysanlab-website-template/images/fallback.svg'; this.onerror = null;">
-
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Sarah Johnson
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-code"></i>
-            <span>Lead Programmer</span>
-          </span>
-        
-      </span>
-    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/baysanlab-website-template/images/cakmaklab_project/drug-repo.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/baysanlab-website-template/images/fallback.svg'; this.onerror = null;">
   </a>
-</div>
-
-<div>
   
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="mailto:sarah.johnson@gmail.com" data-tooltip="Email" data-style="bare" aria-label="Email">
-      <i class="icon fa-solid fa-envelope"></i>
-      
-        <span>Email</span>
-      
-    </a>
-  </div>
-
-<br>
-  
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://twitter.com/sarahjohnson" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
-      <i class="icon fa-brands fa-twitter"></i>
-      
-        <span>Twitter</span>
-      
-    </a>
-  </div>
-
-<br>
-  
-</div>
-
+</figure>
 
 </div>
-
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-
-
-
-
-
-
-
-<!--
-<p class="center">
-  <a href="/baysanlab-website-template/blog/?search=Sarah%20Johnson">
-    See Sarah Johnson's posts on the Blog page
-  </a>
-</p>
--->
+  
+</div>
   </section>
 
 
