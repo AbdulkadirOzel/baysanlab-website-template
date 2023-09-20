@@ -1,4 +1,4 @@
-- title: Comparative Sequencing Analysis Platform
+- title: Ongoing Project:Comparative Sequencing Analysis Platform
   group: featured
   image: images/project3_bl.png
   link: /projects/baysanlab/cosap.html
@@ -9,6 +9,18 @@
     - pipeline
     - workflow
     - NGS
+
+- title: Ongoing Project:Multi-Omics-supported Personalized Treatment Recommendation for Patients
+  group: featured
+  image: images/cakmaklab_project/multi-omics-1.png
+  link: /projects/cakmaklab/multi-omics.html
+  description: Increasing availability of high throughput omics data at decreasing costs ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
 
 - title: Relation Of Methylation with Survival, p53 Mutation and Low Apoptosis in Cancer
   group: featured
@@ -21,18 +33,6 @@
     - mutation
     - apoptosis
     - epigenetic
-
-- title: Multi-Omics-supported Personalized Treatment Recommendation for Patients
-  group: featured
-  image: images/cakmaklab_project/multi-omics-1.png
-  link: /projects/cakmaklab/multi-omics.html
-  description: Increasing availability of high throughput omics data at decreasing costs ...
-  tags:
-    - bioinformatics
-    - multi-omics
-    - diseases
-    - machine learning
-    - database
 
 - title: Drug Repositioning
   group: featured
@@ -51,6 +51,18 @@
   image: images/cakmaklab_project/new-drug-target.svg
   link: /projects/cakmaklab/new-drug-targets.html
   description: The main purpose of this research is to develop a metabolism-based pipeline ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Readmission Risk-based Discharge and Planned Admission Decision Support System
+  group: featured
+  image: images/cakmaklab_project/readmission.svg
+  link: /projects/cakmaklab/readmission-risk.html
+  description: Readmission of patients after a short period of time from their discharge costs ...
   tags:
     - bioinformatics
     - multi-omics
