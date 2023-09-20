@@ -56,26 +56,3 @@ Our up-to-date articles from members of Baysan Lab are shown in this section. Yo
   title="Publications"
   text=text
 %}
-
-{% capture text %}
-
-Our posters are mainly related with Next Generation Sequencing (NGS) pipeline optimizations and cancer genomics studies.
-
-{%
-  include button.html
-  link="BaysanLab/posters"
-  text="More About Posters"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/first-project.png"
-  link="BaysanLab/posters"
-  title="Posters"
-  text=text
-%}
