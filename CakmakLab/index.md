@@ -8,3 +8,74 @@ nav:
 ---
 
 CakmakLab home page
+
+## Highlights
+
+{% capture text %}
+
+There are many projects carried out by our lab together. One of the prominent projects is the Comparative Sequencing Analysis Platform (CoSAP). CoSAP is an easy yet comprehensive pipeline creation tool for NGS data. It provides reproducibility and aims to give deeper insight about the powers and limitations of the current tools by allowing users to compare results of different pipelines.
+
+{%
+  include button.html
+  link="BaysanLab/projects"
+  text="More About Projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/project3_bl.png"
+  link="BaysanLab/projects"
+  title="Projects"
+  text=text
+%}
+
+{% capture text %}
+
+Our up-to-date articles from members of Baysan Lab are shown in this section. You can access our article list in chronologic order from the link below.
+
+{%
+  include button.html
+  link="BaysanLab/publications"
+  text="More About Publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/article1.jpg"
+  link="BaysanLab/publications"
+  title="Publications"
+  text=text
+%}
+
+{% capture text %}
+
+Our posters are mainly related with Next Generation Sequencing (NGS) pipeline optimizations and cancer genomics studies.
+
+{%
+  include button.html
+  link="BaysanLab/posters"
+  text="More About Posters"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/first-project.png"
+  link="BaysanLab/posters"
+  title="Posters"
+  text=text
+%}
