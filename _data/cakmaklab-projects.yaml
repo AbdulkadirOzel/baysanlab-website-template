@@ -34,6 +34,18 @@
     - machine learning
     - database
 
+- title: Readmission Risk-based Discharge and Planned Admission Decision Support System
+  group: featured
+  image: images/cakmaklab_project/readmission.svg
+  link: /CakmakLab/projects/readmission-risk.html
+  description: Readmission of patients after a short period of time from their discharge costs ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
 - title: Personalized Metabolic Analysis of Diseases
   group: featured
   image: images/cakmaklab_project/pers-meto-1.jpg
