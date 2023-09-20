@@ -28,7 +28,7 @@ There are many projects carried out by our lab together. One of the prominent pr
 
 {%
   include feature.html
-  image="images/project3_bl.png"
+  image="images/cakmaklab_project/multi-omics-1.png"
   link="BaysanLab/projects"
   title="Projects"
   text=text
@@ -51,8 +51,8 @@ Our up-to-date articles from members of Baysan Lab are shown in this section. Yo
 
 {%
   include feature.html
-  image="images/article1.jpg"
-  link="BaysanLab/publications"
+  image="images/cakmaklab_project/publications.png"
+  link="CakmakLab/publications"
   title="Publications"
   text=text
 %}
